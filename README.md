@@ -25,3 +25,5 @@ I like this data visualization because it shows which region in the country has 
 4. more idea:
 - Browse through https://corgis-edu.github.io/corgis/ to find interesting data set.
 - Research online on project ideas. 
+
+final project 
